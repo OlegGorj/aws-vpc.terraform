@@ -1,4 +1,4 @@
-# terraform-aws-vpc
+# aws-vpc.terraform
 
 (https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
 
